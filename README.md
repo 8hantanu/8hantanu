@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 -->
 
-### 🐍 Past week stats
+### 📆 Past month stats
 
-<img src="https://wakatime.com/share/@8hantanu/96a3a1dd-21db-457f-8773-5821b19520dd.svg" width="50%" title="Language Stats"><img src="https://wakatime.com/share/@8hantanu/f00c4644-2da6-4ea8-9b38-44a180c98d55.svg" width="50%" title="Time spent on my IDE">
+<img src="https://wakatime.com/share/@8hantanu/93e51f3e-acb5-49a6-ae0a-a2485be37b15.svg" width="50%" title="Language stats for last month"><img src="https://wakatime.com/share/@8hantanu/e0fa6680-69bb-4e51-9599-3bd9ec7832ae.svg" width="50%" title="Coding activity over last month">
 
 ### 🔥 Also find me on
 
