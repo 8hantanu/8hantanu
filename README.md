@@ -1,5 +1,6 @@
-## Hi, people  <img src="https://raw.githubusercontent.com/8hantanu/8hantanu/master/assets/gifs/wave.gif" width="30px">
-I am Shantanu aka [8hantanu](https://8hantanu.me/about) on the web.
+## Hi, people  <img src="https://raw.githubusercontent.com/8hantanu/8hantanu/master/assets/gifs/wave.gif" width="25px">
+
+<img src="https://raw.githubusercontent.com/8hantanu/8hantanu/master/assets/imgs/avatar-banner-text.png" width="100%">
 
 <!--
 
