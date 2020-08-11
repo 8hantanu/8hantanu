@@ -1,6 +1,6 @@
 ## Hi, people  <img src="https://raw.githubusercontent.com/8hantanu/8hantanu/master/assets/gifs/wave.gif" width="25px">
 
-<img src="https://raw.githubusercontent.com/8hantanu/8hantanu/master/assets/imgs/avatar-banner-text.png" width="100%">
+I am Shantanu aka [8hantanu](https://8hantanu.me/about) on the web. 
 
 <!--
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 📆 Past month stats
 
-<img src="https://wakatime.com/share/@8hantanu/93e51f3e-acb5-49a6-ae0a-a2485be37b15.svg" width="50%" title="Language stats for last month"><img src="https://wakatime.com/share/@8hantanu/e0fa6680-69bb-4e51-9599-3bd9ec7832ae.svg" width="50%" title="Coding activity over last month">
+<img src="https://wakatime.com/share/@8hantanu/93e51f3e-acb5-49a6-ae0a-a2485be37b15.svg" width="33%" title="Language stats for last month"><img src="https://raw.githubusercontent.com/8hantanu/8hantanu/master/assets/imgs/avatar.png" width="25%"><img src="https://wakatime.com/share/@8hantanu/e0fa6680-69bb-4e51-9599-3bd9ec7832ae.svg" width="32%" title="Coding activity over last month">
 
 ### 🔥 Also find me on
 
