@@ -1,3 +1,3 @@
-## Hi, people
+## Hey there
 
-I am Shantanu aka [8hantanu](https://8hantanu.me/about) on the web. 
+I am Shantanu aka [8hantanu](https://8hantanu.net) on the web. 
